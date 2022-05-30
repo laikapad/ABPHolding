@@ -1,0 +1,40 @@
+body
+{
+	background-color:#414141;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#header-logo
+{
+	padding-top: 20vh;
+	width: 80vw;
+}
+
+h1
+{
+	padding-top: 3vh;
+	color: whitesmoke;
+	width: 60%;
+	font-size: 3.5vmin;
+}
+
+#icon-holder
+{
+	padding-top: 3vh;
+}
+
+/* Style all font awesome icons */
+.fa {
+  	padding: 0vw;
+  	width: 50px;
+  	text-align: center;
+  	text-decoration: none;
+	color: white;
+}
+
+#footer{
+	padding-top: 3vh;
+	font-size: 1.4vmin;
+	color: whitesmoke;
+	width: 40%;
+}
