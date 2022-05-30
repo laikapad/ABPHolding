@@ -4,9 +4,14 @@ body
 	font-family: 'Quicksand', sans-serif;
 }
 
+br
+{
+	height: 1vh;	
+}
+
 #header-logo
 {
-	padding-top: 20vh;
+	padding-top: 17vh;
 	width: 80vw;
 }
 
@@ -30,6 +35,10 @@ h1
   	text-align: center;
   	text-decoration: none;
 	color: white;
+}
+
+.brand-partners{
+	padding: 0.3vw;
 }
 
 #footer{
